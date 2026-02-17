@@ -1,0 +1,19 @@
+{
+    "panel_name": "My Panel",
+    "welcome_message": "WELCOME TO MY PANEL",
+    "copyright": "© MyCompany 2025-2026",
+    "flower_emoji": "\\01F33A",
+    "flower_name": "hibiscus",
+    "background_image_url": "https://example.com/your-background.jpg",
+    "primary_color": "#ff6b8a",
+    "accent_color": "#ff3366",
+    "glow_color": "rgba(255, 100, 150, 0.8)",
+    "glass_bg": "rgba(20, 10, 30, 0.5)",
+    "glass_border": "rgba(255, 100, 150, 0.15)",
+    "button_gradient_start": "#ff3366",
+    "button_gradient_end": "#ff6b8a",
+    "button_text_color": "#ffffff",
+    "heading_font": "Creepster",
+    "body_font": "Outfit",
+    "pterodactyl_install_path": "/var/www/pterodactyl"
+}
